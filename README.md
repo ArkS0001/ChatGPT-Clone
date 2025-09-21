@@ -3,8 +3,6 @@ Same.dev
 https://same.dev/chat/
 
 
-Got it ✅ Mr. ArkS — you want a **ChatGPT-style futuristic chat webapp** using **React** with:
-
 * Groq API integration
 * **Dropdown menu** for model selection
 * **API Key input** (user-provided)
